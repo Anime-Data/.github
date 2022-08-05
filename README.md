@@ -1,2 +1,3 @@
-# .github
-Anime Data Project Description
+# Description
+
+Data extracting and processing for animes
